@@ -11,3 +11,5 @@
 ![Capture](https://user-images.githubusercontent.com/40834093/179001122-fd668ba1-0194-4265-bed5-3bc66317f3e4.PNG)
 
 Link to File - https://public.tableau.com/views/DiscountMartSalesAnalyticsDashboard_16577304273480/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+Link to Dataset - https://finch-groundhog-9245.squarespace.com/s/discountmart.csv
