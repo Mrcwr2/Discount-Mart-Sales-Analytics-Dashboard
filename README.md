@@ -4,7 +4,7 @@
 •	Track how well Discount Mart is doing for this year (Sales, Profit & Quantity Sold) <BR/>
 •	How well categories are performing as well as different regions <BR/>
 •	Confirm if customers buy 2 or more products per basket/order <BR/>
-(Grant also noted that Profit is 30% of the selling price.) <BR/>
+ (Profit is 30% of the selling price.) <BR/>
 
 
 
