@@ -1,4 +1,4 @@
-# Discount-Mart-Sales-Analytics-Dashboard
+# Tableau-Discount-Mart-Sales-Analytics-Dashboard
 
 ### Objectives: <BR/>
 •	Track how well Discount Mart is doing for this year (Sales, Profit & Quantity Sold) <BR/>
